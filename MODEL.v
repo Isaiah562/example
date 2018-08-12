@@ -1,5 +1,5 @@
 module MOD;
-
+ 
 wire    W;
 reg     R;
 
